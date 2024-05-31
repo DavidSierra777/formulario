@@ -1,0 +1,25 @@
+
+body{
+    background-color: brown;
+    background-image: url(/Fondo2.jpg);
+    background-repeat: auto;
+}
+
+.form1{
+    background-color: rgb(24, 138, 204);
+    border-radius: 20px;
+    justify-content: space-evenly;
+    width: 55%;
+    margin: 0 auto;
+    padding:  2rem;
+
+}
+section{
+    background-image: url(/Fondo.jpg);
+    background-size: contain;
+}
+
+.img{
+    background-image: url(/Fondo.jpg);
+    background-size: contain;
+}
